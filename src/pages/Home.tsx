@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 
 function Home() {
   return (
-    <div className="bg-cyan-900 py-16">
+    <div className="bg-cyan-900 py-8">
       <Container>
         <div className="lg:grid grid-cols-7 flex justify-center flex-col-reverse">
             <div className="py-10 space-y-4 col-span-4 lg:mt-20">
