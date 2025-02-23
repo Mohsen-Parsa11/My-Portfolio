@@ -1,5 +1,4 @@
 import Container from "../components/Container";
-import image from "../assets/te.jpg";
 import weatherApp from "../assets/weather.jpg";
 import store from "../assets/store.jpg";
 import shortly from "../assets/shortly.jpg";
