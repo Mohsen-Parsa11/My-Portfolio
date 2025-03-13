@@ -3,6 +3,7 @@ import weatherApp from "../assets/weather.jpg";
 import store from "../assets/store.jpg";
 import shortly from "../assets/shortly.jpg";
 import card from "../assets/card.jpg";
+import realstate from "../assets/realState.jpg"
 
 function Project() {
   return (
@@ -70,6 +71,21 @@ function Project() {
                 <div className=" group-hover:bg-black-500 group-hover:bg-gradient-to-t group-hover:from-black group-hover:to-transparent transition duration-500 w-full group-hover:opacity-90 h-20 py-3 px-2">
                     <h4 className="text-lg  lg:text-3xl hidden group-hover:block text-white z-20 ">
                       owl-carousel project
+                    </h4>
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://github.com/Mohsen-Parsa11/Slider-owl-carousel" className="border border-sky-400 rounded shadow shadow-sky-400 relative group">
+                <img
+                  src={realstate}
+                  alt=""
+                  className="w-full object-cover rounded lg:h-75"
+                />
+                <div className="flex justify-center items-end absolute top-0 bottom-0 left-0 right-0 z-50 ">
+                <div className=" group-hover:bg-black-500 group-hover:bg-gradient-to-t group-hover:from-black group-hover:to-transparent transition duration-500 w-full group-hover:opacity-90 h-20 py-3 px-2">
+                    <h4 className="text-lg  lg:text-3xl hidden group-hover:block text-white z-20 ">
+                      Real State React Project
                     </h4>
                   </div>
                 </div>

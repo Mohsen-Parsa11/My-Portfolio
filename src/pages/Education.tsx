@@ -11,24 +11,24 @@ function Education() {
           <div className="lg:grid space-y-6 lg:space-y-0 px-8 lg:px-0 grid-cols-3 gap-6 py-6">
             <div className="border border-sky-400 py-4 px-5 rounded shadow shadow-sky-400">
               <h4 className="text-2xl text-sky-400">Diploma Degree</h4>
-              <p className="text-gray-300">
+              <p className="text-cyan-200">
                 Jebrayeel High School, Afghanistan High School Diploma
               </p>
-              <p className="text-gray-300">Graduated: 2022</p>
+              <p className="text-cyan-200">Graduated: 2022</p>
             </div>
             <div className="border border-sky-400 py-4 px-5 rounded shadow shadow-sky-400">
               <h4 className="text-2xl text-sky-400">Univercity</h4>
-              <p className="text-gray-300">
+              <p className="text-cyan-200">
                 Herat Univercity of Afghanistan, Computer Science
                 department, Bachelor's degree
               </p>
-              <p className="text-gray-300">
+              <p className="text-cyan-200">
                 started: 2023
               </p>
             </div>
             <div className="border border-sky-400 py-4 px-5 rounded shadow shadow-sky-400">
               <h4 className="text-2xl text-sky-400">English Diploma</h4>
-              <p className="text-gray-300">
+              <p className="text-cyan-200">
                 Adib English Language Center
                 <p>
                 started in :2022

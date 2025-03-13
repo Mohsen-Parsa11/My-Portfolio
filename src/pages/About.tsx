@@ -16,10 +16,10 @@ function About() {
               className="rounded-full mt-4 h-28 w-28 object-cover  ring-4 ring-sky-400  mx-auto"
             />
           </div>
-          <h2 className="text-center text-xl text-white font-bold">
+          <h2 className="text-center text-xl text-cyan-200 font-bold">
             Frontend Web Developer
           </h2>
-          <p className="text-white text-center max-w-6xl mx-auto">
+          <p className="text-neutral-300 text-center max-w-6xl mx-auto">
             Hello! I’m Mohsen Parsa, a Senior Front-End Developer with a deep
             passion for crafting modern, user-friendly, and responsive web
             applications. Currently, I’m pursuing a degree in Computer Science
