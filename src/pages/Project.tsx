@@ -76,7 +76,7 @@ function Project() {
                 </div>
               </a>
 
-              <a href="https://github.com/Mohsen-Parsa11/Slider-owl-carousel" className="border border-sky-400 rounded shadow shadow-sky-400 relative group">
+              <a href="https://github.com/Mohsen-Parsa11/Real-State-Project" className="border border-sky-400 rounded shadow shadow-sky-400 relative group">
                 <img
                   src={realstate}
                   alt=""
