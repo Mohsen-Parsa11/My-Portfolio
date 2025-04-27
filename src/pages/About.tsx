@@ -19,7 +19,7 @@ function About() {
           <h2 className="text-center text-xl text-cyan-200 font-bold">
             Frontend Web Developer
           </h2>
-          <p className="text-neutral-300 text-center max-w-6xl mx-auto">
+          <p className="text-slate-400 text-center max-w-6xl mx-auto">
             Hello! I’m Mohsen Parsa, a Senior Front-End Developer with a deep
             passion for crafting modern, user-friendly, and responsive web
             applications. Currently, I’m pursuing a degree in Computer Science

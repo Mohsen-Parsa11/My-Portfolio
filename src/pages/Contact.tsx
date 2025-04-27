@@ -51,7 +51,7 @@ function Contact() {
                       className="w-12 h-6 rounded-full lg:absolute -left-3"
                     />
                   </a>
-                  <span className="lg:absolute lg:right-[184px]">Linkedin</span>
+                  <span className="lg:absolute lg:right-[212px]">Linkedin</span>
                 </span>
                 <p className="text-center lg:text-left">
                   <a href="https://www.linkedin.com/in/mohsen-parsa/" className="text-blue-500">
@@ -68,7 +68,7 @@ function Contact() {
                       className="w-12 h-6  rounded-full lg:absolute -left-3"
                     />
                   </a>{" "}
-                  <span className="lg:absolute lg:right-[204px]">Slack</span>
+                  <span className="lg:absolute lg:right-[232px]">Slack</span>
                 </span>
                 <p className="text-center lg:text-left">
                   <a href="https://slack/mohsen?parsa" className="text-blue-500">

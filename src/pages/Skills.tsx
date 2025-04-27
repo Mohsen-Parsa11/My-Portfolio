@@ -45,7 +45,7 @@ function Skills() {
 
             <div className="space-y-2 text-center lg:text-left">
               <h3 className="text-white">
-                Bootstrap : <span className="text-sky-400">80%</span>
+                Type Script : <span className="text-sky-400">85%</span>
               </h3>
               <div className="flex lg:block justify-center">
               <div className="relative">
